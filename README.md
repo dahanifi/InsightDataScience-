@@ -6,7 +6,7 @@
 2.)Run(runShell):
  ./run.sh
  
- %% will create output file for you on first run, but input provided%%
+%% Once Unzipped it will ahve this Repo Directory output Created on first run!%%
   ├── README.txt 
   ├── run.sh
   ├── com
